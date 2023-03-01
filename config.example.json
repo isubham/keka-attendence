@@ -1,0 +1,10 @@
+{
+    "token": "Bearer eekjeejfejkaAejefeujaekfjekfjaeufefefjekjkfoeffebeiueulseuielkDA-1",
+    "employeeId": 575099,
+    "month": "2",
+    "year": "2023",
+    "inTime": "10:00",
+    "outTime": "19:00",
+    "leaves": [],
+    "weekends": [4, 5, 11, 12, 18, 19]
+}
